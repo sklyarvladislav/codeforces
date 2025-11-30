@@ -1,4 +1,4 @@
-n = int(input())
+n = int(std.cin.readline())
 for i in range(n):
     a = str(input())
     if len(a) <= 10:
